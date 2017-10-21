@@ -15,4 +15,4 @@
 
  :repl
  {:plugins
-  [[cider/cider-nrepl "0.15.0"]]}}
+  [[cider/cider-nrepl "0.15.1"]]}}
